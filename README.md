@@ -75,8 +75,8 @@ The USB Ports On The Back Of The Computer.Connect The External Speakers Or Headp
 Computer’s Audio Port (Either On The Front Or Back Of the Computer Case) . Power Supply Cable Connect Into The Back Of The
 Computer Case
 
+![image](https://github.com/Jayabharathi3/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/120367796/c3be6458-2197-417f-a86f-107bd37ca901)
 
-![WhatsApp Image 2023-09-16 at 09 00 41](https://github.com/Jayabharathi3/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/120367796/92d3d8ec-3b76-44bd-a692-9e936a7a2166)
 
 
 ### Step 9: Starting the computer
